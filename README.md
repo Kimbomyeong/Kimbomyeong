@@ -3,26 +3,34 @@
 ✉️ E-mail : kbm4189@naver.com
 
 ## 📂 Project
-💡 [작성예정](작성예정링크)  : **작성예정**
+💡 [ITeaMoa](https://github.com/ITeaMoa) 
+<blockquote>
+ ROLE : 백엔드 <br/>
+PERIOD : 2024-08 ~ 2025-08 <br/>
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+</blockquote>
+
+
+💡 [하이킹플래너](https://github.com/Hiking-Planner)  : **단국대 캡스톤 대상**
 <blockquote>
  ROLE : 백엔드 및 인프라 <br/>
-작성예정
-</blockquote>
-
-
-💡 [작성예정](작성예정)  : **작성예정**
-<blockquote>
- ROLE : 작성예정 <br/>
- PERIOD : 2023-06 ~ 2023-08 <br/>
-작성예정이미지
+ PERIOD : 2024-03 ~ 2024-12 <br/>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 
 </blockquote>
 
-💡 [작성예정](작성예정)  
+💡 [Ezpill](https://github.com/Kimbomyeong/EZpill)  
 <blockquote>
- ROLE : 작성예정<br/>
- PERIOD : 작성예정 <br/>
- 작성예정
+ ROLE : 크롤링 및 백엔드<br/>
+ PERIOD : 2023-09~2023-12 <br/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 
 </blockquote>
 
