@@ -98,7 +98,7 @@ class Bomyeong:
 ---
 
 ### 🧑‍💼 ITeaMoa &nbsp;&nbsp;
-> EKS Fargate 기반 서버리스 MSA 프로젝트·스터디 매칭 플랫폼 &nbsp;|&nbsp; *2024.08 – 진행 중*
+> EKS Fargate 기반 서버리스 MSA 프로젝트·스터디 매칭 플랫폼 &nbsp;|&nbsp; *2024.06 – 2025-06
 
 ![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Fargate](https://img.shields.io/badge/Fargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -110,7 +110,7 @@ class Bomyeong:
 - 서비스 경계를 `/login` · `/main` · `/feed` · `/my` 단위로 MSA 분리
 - **Ingress + IRSA + CloudFront 캐시 무효화** 포함 운영 구조 설계
 - 배포 자동화와 보안 경계를 통합한 클라우드 아키텍처 설계
-
+🔗 [Team Repo](https://github.com/ITeaMoa) &nbsp;
 ---
 
 ### 💊 EZPill
@@ -125,7 +125,7 @@ class Bomyeong:
 - **추천 로직 / 안전성 검증 계층 분리** — 위험 추천 방지 구조 설계
 - PDF 기반 RAG 챗봇으로 **근거 중심 응답** 제공
 - 출력 계약 + 후처리로 LLM 응답의 API 연동 안정성 확보
-
+🔗 [Team Repo](https://github.com/Kimbomyeong/EZpill) &nbsp;
 ---
 
 ### 🎮 LLM 페르소나 기반 인터랙티브 게임 &nbsp;&nbsp; `🏆 NLP 부트캠프 최우수상 (1등)`
@@ -139,7 +139,7 @@ class Bomyeong:
 - **"판정은 모델 / 해석은 시스템 / 생성은 LLM"** 역할 분리 아키텍처 설계
 - 자유 텍스트를 TAG + Delta로 변환해 게임 상태와 연결하는 파이프라인 구현
 - 멀티 NPC 페르소나 유지 + 게임 상태 연동 대화 엔진 완성
-
+🔗 [Team Repo](https://github.com/siva-spasiva) &nbsp;
 ---
 
 ### 📊 AI 응답 품질 자동평가
@@ -154,7 +154,7 @@ class Bomyeong:
 - **Always-Positive 퇴행**을 TN · pos_rate_pred 지표로 진단 및 방지
 - ID 성능 + **OOD 과신 리스크** 동시 평가하는 이중 검증 체계 구축
 - 모델 성능보다 **운영 안전성 중심**의 평가 파이프라인 설계
-
+[Team Repo](https://github.com/Best-Island-LCH/AI_NLP_Team08) &nbsp;
 ---
 
 ### 📝 AI 강의 분석 리포트 생성기 &nbsp;&nbsp; `진행 중`
