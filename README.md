@@ -34,18 +34,24 @@ PERIOD : 2024-08 ~ 2025-08 <br/>
 
 </blockquote>
 
-💡 [작성예정)  : **작성예정**
+💡 [UMI](https://github.com/siva-spasiva)
 <blockquote>
- ROLE : 작성예정 <br/>
- PERIOD : 작성예정 <br/>
+ ROLE : 멀티 NPC 대화 엔진 아키텍처 설계/개발 <br/>
+ PERIOD : 2026-01~2026-02 <br/>
 작성예정
 
 </blockquote>
 
+💡 [AI 응답 품질 자동평가]([https://github.com/siva-spasiva](https://github.com/Best-Island-LCH/AI_NLP_Team08))
+<blockquote>
+ ROLE : 모델 설계 및 평가 체계 구축 <br/>
+ PERIOD : 2026-01~2026-01 <br/>
+작성예정
+
 ## 💼 Experience
 |    Organization                      | Date       |     TYPE      |
 |------------------------------------  |------------|-----------------------|
-| 링키지랩                               | 2025.10~2025.12| 일경험인턴           | 
+| 링키지랩                               | 2025.10~2025.12| 인턴           | 
 
 
 ## 📜 Certificates
@@ -61,7 +67,7 @@ PERIOD : 2024-08 ~ 2025-08 <br/>
 | Award Name                         | Date       | Organization          |
 |------------------------------------|------------|-----------------------|
 | 단국대학교 캡스톤 대상                | 2024-11-19 | 단국대학교            | 
-
+| 멋쟁이사자처럼 자연어 처리 부트캠프 최우수상 | 2026-02-27 | 멋쟁이사자처럼
 
 
 ## 🗂 Education
