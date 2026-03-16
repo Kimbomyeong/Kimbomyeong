@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Problem+Solver+%F0%9F%94%8D;System+Designer+%E2%9A%99%EF%B8%8F;LLM+%2F+NLP+Engineer+%F0%9F%A4%96;Safety+%3E+Accuracy+%7C+System+%3E+Model)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Problem+Solver+%F0%9F%94%8D;System+Designer+%E2%9A%99%EF%B8%8F;Safety+%3E+Accuracy+%7C+System+%3E+Model)](https://git.io/typing-svg)
 
 <br/>
 
@@ -87,11 +87,11 @@ class Bomyeong:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
+<!--
 - GPS 노이즈 감소를 위한 **좌표 라운딩 + tolerance 기반 군집화** 설계
 - **Spring Boot / FastAPI 역할 분리** — I/O 처리 vs 분석 연산 워크로드 분리
 - SOS 신고 기능 및 최빈 경로 분석 기능 구현
-
+-->
 🔗 [Backend Repo](https://github.com/Hiking-Planner/HikingPlanner_BE) &nbsp;·&nbsp; [Clustering Server Repo](https://github.com/Hiking-Planner/PythonClusteringSever)
 
 ---
@@ -105,10 +105,11 @@ class Bomyeong:
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![ALB](https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
+<!--
 - 서비스 경계를 `/login` · `/main` · `/feed` · `/my` 단위로 MSA 분리
 - **Ingress + IRSA + CloudFront 캐시 무효화** 포함 운영 구조 설계
 - 배포 자동화와 보안 경계를 통합한 클라우드 아키텍처 설계
+-->
 🔗 [Team Repo](https://github.com/ITeaMoa) &nbsp;
 ---
 
@@ -120,10 +121,11 @@ class Bomyeong:
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square)
 ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-
+<!--
 - **추천 로직 / 안전성 검증 계층 분리** — 위험 추천 방지 구조 설계
 - PDF 기반 RAG 챗봇으로 **근거 중심 응답** 제공
 - 출력 계약 + 후처리로 LLM 응답의 API 연동 안정성 확보
+-->
 🔗 [Team Repo](https://github.com/Kimbomyeong/EZpill) &nbsp;
 ---
 
@@ -134,10 +136,11 @@ class Bomyeong:
 ![BERT](https://img.shields.io/badge/BERT-yellow?style=flat-square)
 ![Gemma 2](https://img.shields.io/badge/Gemma_2-4285F4?style=flat-square&logo=google&logoColor=white)
 ![SFT/LoRA](https://img.shields.io/badge/SFT%2FLoRA-7C3AED?style=flat-square)
-
+<!--
 - **"판정은 모델 / 해석은 시스템 / 생성은 LLM"** 역할 분리 아키텍처 설계
 - 자유 텍스트를 TAG + Delta로 변환해 게임 상태와 연결하는 파이프라인 구현
 - 멀티 NPC 페르소나 유지 + 게임 상태 연동 대화 엔진 완성
+-->
 🔗 [Team Repo](https://github.com/siva-spasiva) &nbsp;
 ---
 
@@ -149,10 +152,11 @@ class Bomyeong:
 ![ELECTRA](https://img.shields.io/badge/ELECTRA-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Focal Loss](https://img.shields.io/badge/Focal_Loss-555555?style=flat-square)
 ![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-
+<!--
 - **Always-Positive 퇴행**을 TN · pos_rate_pred 지표로 진단 및 방지
 - ID 성능 + **OOD 과신 리스크** 동시 평가하는 이중 검증 체계 구축
 - 모델 성능보다 **운영 안전성 중심**의 평가 파이프라인 설계
+-->
 [Team Repo](https://github.com/Best-Island-LCH/AI_NLP_Team08) &nbsp;
 ---
 
@@ -163,11 +167,11 @@ class Bomyeong:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-2563EB?style=flat-square)
-
+<!--
 - 15개 STT 강의 스크립트 + 30행 메타데이터 + **18개 품질 평가 항목** 구조 분석
 - **규칙 기반 feature 추출 + LLM 평가 결합**한 Hybrid AI MVP 정의
 - EDA · 데이터 정합성 검증 · 평가 항목 매핑 · 분석 설계 문서 작성
-
+-->
 <br/>
 
 ## 💼 Experience
