@@ -97,7 +97,7 @@ class Bomyeong:
 ---
 
 ### 🧑‍💼 ITeaMoa &nbsp;&nbsp;
-> EKS Fargate 기반 서버리스 MSA 프로젝트·스터디 매칭 플랫폼 &nbsp;|&nbsp; *2024.06 – 2025-06
+> 프로젝트·스터디 매칭 플랫폼 &nbsp;|&nbsp; *2024.06 – 2025-06
 
 ![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Fargate](https://img.shields.io/badge/Fargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
