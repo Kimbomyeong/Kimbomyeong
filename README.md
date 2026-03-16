@@ -26,7 +26,7 @@ class Bomyeong:
 
     focus = [
         "Backend System Design",
-        "Cloud Infrastructure (AWS / EKS)",
+        "Cloud Infrastructure",
         "LLM · NLP · Evaluation Pipeline",
     ]
 
