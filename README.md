@@ -7,11 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Problem+Solver+%F0%9F%94%8D;System+Designer+%E2%9A%99%EF%B8%8F;Safety+%3E+Accuracy+%7C+System+%3E+Model)](https://git.io/typing-svg)
 
 <br/>
-
+<!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-bomyeong--portfolio.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://bomyeong-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-kbm4189@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:kbm4189@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Kimbomyeong-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kimbomyeong)
-
+-->
 </div>
 
 ---
@@ -248,14 +248,6 @@ class Bomyeong:
 
 <br/>
 
-## 📬 Contact
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bomyeong--portfolio.vercel.app-2563eb?style=for-the-badge)](https://bomyeong-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email-kbm4189@naver.com-03C75A?style=for-the-badge)](mailto:kbm4189@naver.com)
-
-</div>
 
 <br/>
 
