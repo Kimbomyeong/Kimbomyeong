@@ -92,7 +92,7 @@ class Bomyeong:
 - **Spring Boot / FastAPI 역할 분리** — I/O 처리 vs 분석 연산 워크로드 분리
 - SOS 신고 기능 및 최빈 경로 분석 기능 구현
 -->
-🔗 [Backend Repo](https://github.com/Hiking-Planner/HikingPlanner_BE) &nbsp;·&nbsp; [Clustering Server Repo](https://github.com/Hiking-Planner/PythonClusteringSever)
+🔗 [Team Repo](https://github.com/Hiking-Planner) &nbsp;
 
 ---
 
