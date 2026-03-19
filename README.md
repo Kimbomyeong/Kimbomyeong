@@ -80,7 +80,7 @@ class Bomyeong:
 
 ## 🚀 Projects
 
-### 🏔️ 하이킹 플래너 &nbsp;&nbsp; `🏆 캡스톤 대상 (1등)`
+### 🏔️ 하이킹 플래너 &nbsp;&nbsp; `🏆 캡스톤 대상`
 > GPS 기반 등산 경로 기록·분석 및 안전 관리 서비스 &nbsp;|&nbsp; *2024.03 – 2024.11*
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -129,7 +129,7 @@ class Bomyeong:
 🔗 [Team Repo](https://github.com/Kimbomyeong/EZpill) &nbsp;
 ---
 
-### 🎮 LLM 페르소나 기반 인터랙티브 게임 &nbsp;&nbsp; `🏆 NLP 부트캠프 최우수상 (1등)`
+### 🎮 LLM 페르소나 기반 인터랙티브 게임 &nbsp;&nbsp; `🏆 NLP 부트캠프 최우수상`
 > 판정·해석·생성을 분리한 멀티 NPC 대화 엔진 &nbsp;|&nbsp; *2026.01 – 2026.02*
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -226,8 +226,8 @@ class Bomyeong:
 
 | 🥇 수상 | 기관 | 날짜 | 프로젝트 |
 |--------|------|------|---------|
-| 캡스톤 대상 (1등) | 단국대학교 | 2024.11.28 | 하이킹 플래너 |
-| NLP 부트캠프 플러스 최우수상 (1등) | 멋쟁이사자처럼 | 2026.02.27 | LLM 페르소나 기반 인터랙티브 게임 |
+| 캡스톤 대상 | 단국대학교 | 2024.11.28 | 하이킹 플래너 |
+| NLP 부트캠프 플러스 최우수상 | 멋쟁이사자처럼 | 2026.02.27 | LLM 페르소나 기반 인터랙티브 게임 |
 
 </div>
 
